@@ -13,10 +13,13 @@ export default class Shipping extends Component {
 
   // Called when User Clicks Next
   onSubmit = (navigate) => {
+    // TODO:
     // 1. Alert the entire shipping address
     // 2. Navigate to Record page
   }
 
+  // TODO:
+  // Complete all text fields
   render() {
     const { navigate } = this.props.navigation;
     return (
