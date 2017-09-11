@@ -3,5 +3,5 @@ TODO:
 1. Make the UI of Shipping.js as in src/images/ShippingFinal.jpg. All the images are present in src/images/ folder.
 2. Make a new Record page which records user's voice and plays it. So there are two buttons: Record and Play. Please use and install 'react-native-audio' and 'react-native-sound' npm modules available on GitHub.
 3. Complete the Shipping.js code as mentioned in the file.
-4. Run it on device/video. Submit a video of the flow from Login Page to Shipping to Record page with some voice being recorded and played.
+4. Run it on device/emulator. Submit a video of the flow from Login Page to Shipping to Record page with some voice being recorded and played.
 5. Submit a pull request on separate branch.
